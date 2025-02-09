@@ -1,0 +1,18 @@
+body {
+  background-color: #f9f7fe;
+  font-family: "Open Sans", serif;
+  font-optical-sizing: auto;
+  font-weight: 100px;
+
+  font-style: normal;
+  font-variation-settings: "width" 100;
+}
+
+.app-container {
+  background: white;
+  max-width: 600px;
+  margin: 35px auto;
+  border-radius: 15px;
+  box-shadow: 0 30px 50px rgb(65, 50, 100, 0.08);
+  padding: 30px;
+}
